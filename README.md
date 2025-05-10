@@ -18,7 +18,7 @@ Follow these steps in your terminal:
 
 1️⃣ Clone the repository
 
-git clone https://github.com/rajanyadav0307/DesignPatternConcepts-1.git
+git clone https://github.com/rajanyadav0307/DesignPatternConcepts-1-Music-Player.git
 
 
 2️⃣ Navigate into the project directory
